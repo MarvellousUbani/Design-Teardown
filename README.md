@@ -1,16 +1,18 @@
-# Title:
-Design-Teardown
+# Project Title:
+Smashing Magazine Page Clone
 
 ## Description:
-Rephrasing of Smashing Magazine
+A grayscale clone of Smashing Magazine
 
 ### Authors:
-[Asha](https://github.com/Ashah15)
+[Asha](https://github.com/Ashah15) &
 [Micheals](https://github.com/MarvellousUbani)
 
 #### Link to the live repository:
-[Click Here](https://ashah15.github.io/Design-Teardown/.)
+[Click Here](https://marvellousubani.github.io/Design-Teardown/)
 
 ##### Link to the screenshot:
-![smashingmagazine](https://user-images.githubusercontent.com/25789605/61913875-33510f80-af47-11e9-9c93-58106bcba69e.png)
+![smashmag](https://user-images.githubusercontent.com/17970203/62875782-84b91700-bd1b-11e9-94d0-7f84f33c7d46.png)
+
+
 
